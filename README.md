@@ -1,2 +1,2 @@
-# Java_Project
+# Java_Projects
 Just for fun
